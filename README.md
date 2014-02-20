@@ -4,7 +4,7 @@ By [Liam Buell](https://github.com/Lbuell/)
 
 
 ## Description
-**Wordinator** Is a simple anagram truth solver on rails-api.  It allows you to check to see if two words are anagrams of eachother
+**Wordinator** Is a simple anagram truth solver built with rails-api.  It allows you to check to see if two words are anagrams of eachother
 
 ## Installation
 
@@ -13,8 +13,8 @@ Fork and clone the repo, boot up your rails server and visit type in something l
 
 ### Known Issues
 
-If you discover any bugs, feel free to create an issue on GitHub fork and
-send us a pull request.
+If you discover any bugs, feel free to create an issue on GitHub, fork and
+send a pull request.
 
 [Issues List](https://github.com/lbuell/portfolio/issues).
 
